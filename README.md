@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+<!--
 <a href="https://mygitstats.com">
 https://api.mygitstats.com/svg/45010157
 </a>
 
-<!--
 **SAndersonCheung/SAndersonCheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
