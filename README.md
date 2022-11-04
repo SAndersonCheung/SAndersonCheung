@@ -1,3 +1,4 @@
+<div align="center"><h2>Summer Anderson-Cheung</h2></div>
 ### Hi there 👋
 
 <!--
