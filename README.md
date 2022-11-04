@@ -1,5 +1,10 @@
-<div align="center"><h2>Summer Anderson-Cheung</h2></div>
-### Hi there 👋
+<div align="center">
+  <h1>Summer Anderson-Cheung</h1>
+</div>
+<div align="center">
+  <h3>Computer Science | Website Development | HCI / UI / UX</h3>
+  <p>🌱 I’m currently studying for my Integrated Masters in Computer Science🌱</p>
+</div>
 
 <!--
 <a href="https://mygitstats.com">
