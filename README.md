@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h3>Computer Science | Website Development | HCI / UI / UX</h3>
-  <p>🌱 I’m currently studying for my Integrated Masters in Computer Science🌱</p>
+  <p>🌱 I have achieved a First Class Honours Integrated Masters degree in Computer Science 🌱</p>
 </div>
 
 <!--
