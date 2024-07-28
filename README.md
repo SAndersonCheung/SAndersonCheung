@@ -3,7 +3,8 @@
 </div>
 <div align="center">
   <h3>Computer Science | Website Development | HCI / UI / UX</h3>
-  <p>🌱 I have achieved a First Class Honours Integrated Masters degree in Computer Science 🌱</p>
+  <p>💻 Currently a Software Developer for Streets Heaver Healthcare Computing 💻</p>
+  <p>🌱 I have achieved a First Class Honours Integrated Masters degree in Computer Science from Newcastle University🌱</p>
 </div>
 
 <!--
